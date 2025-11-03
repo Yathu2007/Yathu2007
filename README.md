@@ -1,5 +1,5 @@
 <h1  align="center">Hi 👋, I'm Yathurshan Manoharan</h1>
-<h3  align="center">A high-school Computer Science enthusiast.</h3>
+<h3  align="center">A first year Computer Science student @ UofT</h3>
 
 -   🔭 I’m currently working on **Path finding algorithms visualizer & a Real-time Chat using Socket.IO**
 -   🌱 I’m currently learning **Data Structures & Algorithms**
