@@ -5,7 +5,7 @@
 -   🌱 I’m currently learning **Data Structures & Algorithms**
 -   💬 Ask me about **python, react and c++**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yathu2007&theme=nord&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yathu2007&theme=nord&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yathu2007&layout=compact&theme=nord)
 
