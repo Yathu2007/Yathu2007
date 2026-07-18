@@ -16,11 +16,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,java,bash,html,css&perline=9" alt="Languages" />
 </p>
+
 **Frameworks & Libraries**
  
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,prisma,fastapi,supabase,postgres,pytorch&perline=9" alt="Frameworks" />
 </p>
+
 **Tools & DevOps**
  
 <p>
