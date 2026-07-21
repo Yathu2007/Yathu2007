@@ -8,9 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University%20of%20Toronto-Honours%20B.Sc.%20CS%20(Co--op)-0072FF?style=flat-square&logo=google-scholar&logoColor=white" alt="University of Toronto" />
+  <img src="https://img.shields.io/badge/University%20of%20Toronto-HBSc%20Computer%20Science-0072FF?style=flat-square&logo=google-scholar&logoColor=white" alt="University of Toronto" />
   <img src="https://img.shields.io/badge/Toronto,%20ON-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/yathurshan-manoharan">
     <img src="https://img.shields.io/badge/LinkedIn-0072FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
