@@ -1,13 +1,24 @@
-<h1 align="center">Yathurshan Manoharan</h1>
-<h3 align="center">Computer Science @ University of Toronto</h3>
-<p align="center">Full-Stack Development · Algorithms · AI/ML · Systems</p>
-<!-- <p align="center">
-  <a href="https://linkedin.com/in/yathurshan-manoharan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0072ff&height=200&section=header&text=Yathurshan%20Manoharan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="header" width="100%" />
+</p>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%2B+Stats+%40+University+of+Toronto;AI+Storage+Researcher+-+Huawei+(incoming);Building+the+systems+layer+of+AI" alt="Typing SVG" />
   </a>
-</p> -->
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/University%20of%20Toronto-Honours%20B.Sc.%20CS%20(Co--op)-0072FF?style=flat-square&logo=google-scholar&logoColor=white" alt="University of Toronto" />
+  <img src="https://img.shields.io/badge/Toronto,%20ON-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/yathurshan-manoharan">
+    <img src="https://img.shields.io/badge/LinkedIn-0072FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yathurshan.manoharan@mail.utoronto.ca">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ## 🛠 Tech Stack
 
@@ -29,15 +40,4 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,aws,postman,jira&perline=9" alt="Tools" />
 </p>
 
-
----
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yathu2007&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yathu2007&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
----
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:61DAFB&height=100&section=footer" alt="footer" width="100%" />
