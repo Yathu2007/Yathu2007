@@ -3,13 +3,13 @@
 </p>
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%2B+Stats+%40+University+of+Toronto;AI+Storage+Researcher+-+Huawei+(incoming);Building+the+systems+layer+of+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%2B+Stats+%40+University+of+Toronto;Co-op+Engineer+-+AI+Storage+Huawei+Canada+(incoming);Building+the+systems+layer+of+AI" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Toronto-HBSc%20Computer%20Science-0072FF?style=flat-square&logo=google-scholar&logoColor=white" alt="University of Toronto" />
-  <img src="https://img.shields.io/badge/Toronto,%20ON-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Toronto,%20ON-0072FF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0072FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:yathurshan.manoharan@mail.utoronto.ca">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0072FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
