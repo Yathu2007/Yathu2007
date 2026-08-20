@@ -8,16 +8,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University%20of%20Toronto-HBSc%20Computer%20Science-0072FF?style=flat-square&logo=google-scholar&logoColor=white" alt="University of Toronto" />
-  <img src="https://img.shields.io/badge/Toronto,%20ON-0072FF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/University%20of%20Toronto-HBSc%20Computer%20Science-0284C7?style=flat-square&labelColor=555555&logo=google-scholar&logoColor=white" alt="University of Toronto" />
+  <img src="https://img.shields.io/badge/Toronto,%20ON-0C4A6E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yathurshan-manoharan">
-    <img src="https://img.shields.io/badge/LinkedIn-0072FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0C4A6E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:yathurshan.manoharan@mail.utoronto.ca">
-    <img src="https://img.shields.io/badge/Email-0072FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
