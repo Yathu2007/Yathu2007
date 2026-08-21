@@ -24,21 +24,36 @@
 ## 🛠 Tech Stack
 
 **Languages**
- 
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,java,bash,html,css&perline=9" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,java,bash,html,css&perline=11" alt="Languages" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 **Frameworks & Libraries**
- 
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,prisma,fastapi,supabase,postgres,pytorch&perline=9" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,prisma,fastapi,supabase,postgres,androidstudio,firebase,selenium,pytorch&perline=11" alt="Frameworks and Libraries" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/cuBLAS-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="cuBLAS" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white" alt="BeautifulSoup" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Mockito-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Mockito" />
+  <img src="https://img.shields.io/badge/unittest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="unittest" />
 </p>
 
 **Tools & DevOps**
- 
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,aws,postman,jira&perline=9" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,cmake,gradle,docker,aws,postman,githubactions&perline=11" alt="Tools and DevOps" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:61DAFB&height=100&section=footer" alt="footer" width="100%" />
